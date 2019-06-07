@@ -1,0 +1,41 @@
+A	Anglia	Peterborough	A B C D E F G H J K L M N
+A	Anglia	Norwich	O P R S T U
+A	Anglia	Ipswich	V W X Y
+B	Birmingham	Birmingham	A-Y
+C	Cymru (Wales)	Cardiff	A B C D E F G H J K L M N O
+C	Cymru (Wales)	Swansea	P R S T U V
+C	Cymru (Wales)	Bangor	W X Y
+D	Deeside	Chester	A B C D E F G H J K
+D	Deeside	Shrewsbury	L M N O P R S T U V W X Y
+E	Essex	Chelmsford	A-Y
+F	Forest and Fens	Nottingham	A B C D E F G H J K L M N P
+F	Forest and Fens	Lincoln	R S T V W X Y
+G	Garden of England	Maidstone	A B C D E F G H J K L M N 
+G	Garden of England	Brighton	P R S T U V W X Y
+H	Hampshire and Dorset	Bournemouth	A B C D E F G H J
+H	Hampshire and Dorset	Portsmouth	K L M N O P R S T U V X Y 
+H	Hampshire and Dorset	Isle of Wight	W
+K	No official mnemonic	Borehamwood	A B C D E F G H J K L
+K	No official mnemonic	Northampton	M N O P R S T U V W X Y
+L	London	Wimbledon	A B C D E F G H J
+L	London	Borehamwood	K L M N O P R S T
+L	London	Sidcup	U V W X Y
+M	Manchester and Merseyside	Manchester	A–Y
+N	North	Newcastle	A B C D E G H J K L M N O
+N	North	Stockton	P R S T U V W X Y
+O	Oxford	Oxford	A-Y
+P	Preston	Preston	A B C D E F G H J K L M N O P R S T
+P	Preston	Carlisle	U V W X Y
+R	Reading	Reading	A-Y
+S	Scotland	Glasgow	A B C D E F G H J
+S	Scotland	Edinburgh	K L M N O
+S	Scotland	Dundee	P R S T
+S	Scotland	Aberdeen	U V W
+S	Scotland	Inverness	X Y
+V	Severn Valley	Worcester	A–Y
+W	West of England	Exeter	A B C D E F G H J
+W	West of England	Truro	K L
+W	West of England	Bristol	M N O P R S T U V W X Y
+Y	Yorkshire	Leeds	A B C D E F G H J K
+Y	Yorkshire	Sheffield	L M N O P R S T U
+Y	Yorkshire	Beverley	V W X Y

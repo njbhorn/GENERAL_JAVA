@@ -1,0 +1,19 @@
+<html  xmlns:th="http://www.thymeleaf.org">
+    <body>
+        
+            <table>
+               
+		        <tr>
+		            <td>Name</td>
+		            <td>Status</td>
+		        </tr>
+		        <tr th:each="status :  ${status_info}">
+		            <td><p th:text="${status.name}" /></td>       
+		            <td><p th:text="${status.lineStatuses[0].statusSeverityDescription}" /></td>        
+		
+		        </tr>
+    </table>
+            </table>
+        </div>
+    </body>
+</html>
